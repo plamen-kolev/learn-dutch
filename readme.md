@@ -15,5 +15,9 @@ tegelijkertijd - at the same time
 alhoewel - although
 waarschijnlijk - probably
 gewoon - just
+nadeel - disadvantage
+sturen - send
 
 # Phrases
+veel zin hebben - make a lot of sense
+moet het allemaal kunnen je bent gewoon - it should be all you are used to
