@@ -2,6 +2,8 @@
 I am trying hard to learn dutch, these are some materials that make it easy for me to do so
 
 # List of good words
+
+```.txt
 uitleggen - explain
 algemeen - generally
 aangezien - since
@@ -17,7 +19,10 @@ waarschijnlijk - probably
 gewoon - just
 nadeel - disadvantage
 sturen - send
-
+ervaar - experience
+```
 # Phrases
+```.txt
 veel zin hebben - make a lot of sense
 moet het allemaal kunnen je bent gewoon - it should be all you are used to
+```
